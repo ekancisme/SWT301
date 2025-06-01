@@ -1,10 +1,10 @@
-# 💫About Me :
-🧑‍💻 I'm currently working on learning and building personal projects  
-🤝 I'm looking to collaborate on creative and fun coding projects  
-🙏 I'm looking for help with improving my coding skills and real-world experience  
-🎓 I'm currently studying at FPT University, majoring in Software Engineering  
-💬 Ask me about anything tech-related or fun side projects  
-😊 Fun fact: I'm a cheerful, curious person who loves to explore and tinker with new things. I also have a very warm and emotional heart ❤️  
+# 💫 About Me :
+:computer: I'm currently working on learning and building personal projects  
+:handshake: I'm looking to collaborate on creative and fun coding projects  
+:pray: I'm looking for help with improving my coding skills and real-world experience  
+:mortar_board: I'm currently studying at FPT University, majoring in Software Engineering  
+:speech_balloon: Ask me about anything tech-related or fun side projects  
+:smiley: Fun fact: I'm a cheerful, curious person who loves to explore and tinker with new things. I also have a very warm and emotional heart :heart:
 
 
 
