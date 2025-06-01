@@ -8,7 +8,7 @@ public class AccountServiceTest {
     AccountService service = new AccountService();
 
     @ParameterizedTest(name = "Test {index} => username={0}, password={1}, email={2}, expected={3}")
-    @CsvFileSource(resources = "/test-data.csv", numLinesToSkip = 1)
+    @CsvFileSource(resources = "/test-data.csv", numLinesToSkip = 0)
     void testRegisterAccount(String username, String password, String email, boolean expected) {
         boolean result = service.registerAccount(username, password, email);
         assertEquals(expected, result, () -> "Test failed for: " + username + "/" + password + "/" + email);
